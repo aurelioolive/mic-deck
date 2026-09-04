@@ -67,3 +67,7 @@ The lock acts on the macOS side. It does not prevent adjustments made on the
 microphone's own touch panel, nor the MV7's auto level mode, both of which act
 inside the hardware. To leave that mode, hold Mute on the microphone for two
 seconds.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
